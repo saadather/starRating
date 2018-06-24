@@ -1,2 +1,0 @@
-# starRating
-Created with CodeSandbox
